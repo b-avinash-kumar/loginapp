@@ -38,6 +38,7 @@ public class UserService {
 
     	public void greetAgain() {
         	System.out.println("Hello, John!"); // duplicate
+		System.out.println("Duplicate Code");
     	}
 }
 
