@@ -32,4 +32,12 @@ public class UserService {
 		}
 		return status;
 	}
+	public void greet() {
+        	System.out.println("Hello, John!");
+    	}
+
+    	public void greetAgain() {
+        	System.out.println("Hello, John!"); // duplicate
+    	}
 }
+
